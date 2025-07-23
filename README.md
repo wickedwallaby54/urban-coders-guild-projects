@@ -1,1 +1,1 @@
-# urban-coders-guild-projects
+# urban-coders-guild-camp-projects
